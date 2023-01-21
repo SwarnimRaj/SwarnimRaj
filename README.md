@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwarnimRaj
 - 👀 I’m interested in making a social impact
-- 🌱 I’m currently learning Java/ReactJS/AWS
+- 🌱 My current expertise is in Java/Python/AWS
 
 <!---
 - 💞️ I’m looking to collaborate on ...
